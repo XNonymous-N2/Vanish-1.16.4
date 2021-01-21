@@ -1,0 +1,21 @@
+name: Vanish
+author: XNonymous
+description: Vanish
+main: de.xnonymous.vanish.Vanish
+version: v1.0
+commands:
+  vanish:
+    permission: vanish.use
+    aliases:
+      - v
+      - hide
+      - unsichtbar
+  seevanish:
+    permission: vanish.see
+    aliases:
+      - vanishes
+      - sv
+      - seehide
+      - sh
+      - v?
+      - vanish?
